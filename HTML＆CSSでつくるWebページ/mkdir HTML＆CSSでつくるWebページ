@@ -1,0 +1,16 @@
+mkdir HTML＆CSSでつくるWebページ
+  802  cd HTML＆CSSでつくるWebページ/
+  803  pwd
+  804  subl index.html
+  805  cd ../
+  806  ls -a
+  807  git add -A
+  808  git commit -m 'firstcommit'
+  809  git commit -m 'first commit'
+  810  git push origin master
+  811  ls
+  812  ls HTML＆CSSでつくるWebページ/
+  813  git add -A
+  814  git commit -m 'first commit'
+  815  git push origin master
+  816  history
